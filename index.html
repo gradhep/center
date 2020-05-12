@@ -7,7 +7,7 @@ search_exclude: true
 
 Welcome!
 
-smooth HEP is a group of people who are interested in high-energy physics (HEP) analysis that can be done in a *differentiable* (smooth) way. This is just jargon for wanting to optimize the analysis directly with respect to the physics goals of interest using gradient-based methods, such as gradient descent. 
+∇HEP (gradHEP) is a group of people who are interested in high-energy physics (HEP) analysis that can be done in a *differentiable* way. This is just jargon for wanting to optimize the analysis directly with respect to the physics goals of interest using gradient-based methods, such as gradient descent. 
 
 We can make this possible if we keep track of the derivatives of each step (i.e. line of code) of the analysis with respect to their inputs. While that may sound like a harsh requirement, this is made pretty simple thanks to the magic of *automatic differentiation*, or ‘autodiff’ for short. If you code up a program using a library that supports autodiff, the library will keep track of the gradients throughout your program by stepping through each elementary operation -- e.g. addition, subtraction, multiplication, division, which have known differentiation rules like the product rule -- and calculates the gradients using the chain rule. 
 
