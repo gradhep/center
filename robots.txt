@@ -1,1 +1,1 @@
-Sitemap: https://smoothep.github.io/center/sitemap.xml
+Sitemap: https://smooth-hep.github.io/center/sitemap.xml
