@@ -1,1 +1,1 @@
-Sitemap: https://smooth-hep.github.io/center/sitemap.xml
+Sitemap: https://gradhep.github.io/center/sitemap.xml
