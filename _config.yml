@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: ∇HEP
-description: The place for all things differentiable analysis! 
+title: gradHEP
+description: differentiate everything
 github_username: gradhep
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "center"
