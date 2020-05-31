@@ -1,6 +1,4 @@
-[//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![Gitter chat](https://badges.gitter.im/gradhep.png)](https://gitter.im/gradhep)
 ![](https://github.com/smoothep/center/workflows/CI/badge.svg) 
 ![](https://github.com/smoothep/center/workflows/GH-Pages%20Status/badge.svg) 
